@@ -5431,6 +5431,10 @@ div[class*="modal-"] {
     d: path('M10,24 L30,24 C50,26 50,46 30,26 L10,10');
   }  
 
+.upload-drop-modal .bgScale {
+    background-color: #7129a6;
+}
+
 .upload-drop-modal.error {
     border-radius: 2px;
     background: #fff;
@@ -5444,7 +5448,7 @@ div[class*="modal-"] {
     font-size: 12px;
     line-height: 16px;
     margin-top: 4px;
-    color: #322f37;
+    color: #bda1f5;
 }
 
 .upload-drop-modal.error .inner {
